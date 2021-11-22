@@ -109,12 +109,14 @@ body {
 
 h1 {
     text-transform: uppercase;
+    text-shadow: 2px 2px #ff0000;
 }
 
 .subtitle {
     font-size: 21px;
     font-weight: 300;
     margin: 35px 0;
+    text-shadow: 1px 1px #ff0000;
 }
 
 .learn-more {
